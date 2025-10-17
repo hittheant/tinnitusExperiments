@@ -1,0 +1,42 @@
+3.3820 	INFO 	Loaded monitor calibration from ['2023_11_01 17:25']
+3.4520 	INFO 	Using renderer 'Intel(R) UHD Graphics 770' for graphics
+3.4520 	INFO 	OpenGL version supported by driver is 4..
+3.4603 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000002514299EC70>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000002514299EC10>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=True, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0000025142CEA040>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1470,  919]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+3.4604 	EXP 	window1: backgroundImage = ''
+3.4604 	EXP 	window1: backgroundFit = 'none'
+3.6743 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+3.6743 	EXP 	window1: recordFrameIntervals = False
+3.9515 	EXP 	window1: recordFrameIntervals = True
+4.0137 	WARNING 	t of last frame was 31.44ms (=1/31)
+4.0452 	WARNING 	t of last frame was 31.46ms (=1/31)
+4.0764 	WARNING 	t of last frame was 31.18ms (=1/32)
+4.1072 	WARNING 	t of last frame was 30.85ms (=1/32)
+4.1386 	WARNING 	Multiple dropped frames have occurred - I'll stop bothering you about them!
+4.2955 	EXP 	Screen (0) actual frame rate measured at 31.99Hz
+4.2956 	EXP 	window1: recordFrameIntervals = False
+4.3952 	INFO 	keyboard.Keyboard is using ptb backend.
+4.3953 	INFO 	keyboard.Keyboard is using ptb backend.
+4.4134 	WARNING 	No default speaker specified in Preferences / Hardware, using first speaker found: Remote Audio
+4.4708 	INFO 	Created stream for speaker device: Remote Audio (2.0)
+4.4732 	EXP 	2back_diagram: status = STARTED
+4.5060 	EXP 	Created fixation = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='fixation', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+4.5060 	EXP 	sound_stim: sampleRate = 44100
+4.5061 	EXP 	sound_stim: channels = None
+4.5070 	EXP 	Sound sound_stim set volume 1.000
+4.5147 	EXP 	Created fixation2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-4.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='fixation2', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Sound playing:', units='height', win=Window(...), wrapWidth=1)
+4.5152 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+0.0019 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+0.0022 	EXP 	sound_stim: sampleRate = 48000
+0.0044 	INFO 	Resampled audio from 48000Hz to 44100Hz using method 'default'.
+0.0285 	EXP 	fixation: autoDraw = True
+1.0298 	INFO 	Keyboard events cleared
+1.0295 	EXP 	fixation2: autoDraw = True
+1.0307 	EXP 	Sound sound_stim reached end of file
+1.0308 	EXP 	Playing sound sound_stim on speaker Remote Audio
+1.0610 	EXP 	fixation: autoDraw = False
+1.7487 	EXP 	Sound sound_stim reached end of file
+1.7797 	EXP 	Sound sound_stim reached end of file
+1.8360 	INFO 	saved data to c:\Users\Adyant Balaji\Documents\EEG\tinnitusExperiments\WorkingMemory\data\452533_2back_diagram_2025-10-16_14h44.04.026.psydat
+1.8392 	INFO 	saved data to 'c:\\Users\\Adyant Balaji\\Documents\\EEG\\tinnitusExperiments\\WorkingMemory\\data\\452533_2back_diagram_2025-10-16_14h44.04.026.csv'
+1.8517 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+1.8897 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.

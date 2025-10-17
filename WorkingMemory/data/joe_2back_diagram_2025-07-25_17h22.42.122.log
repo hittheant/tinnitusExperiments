@@ -1,0 +1,254 @@
+11.2033 	DEBUG 	Fullscreen settings ignored as running in pilot mode.
+11.2052 	INFO 	Loaded monitor calibration from ['2025_07_24 15:50']
+11.4194 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x15710ac50>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x15710b070>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=False, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x1570c8f40>, multiSample=False, name='window1', numSamples=2, pos=[356.0, 191.0], screen=0, size=array([1600, 1200]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+11.4195 	EXP 	window1: backgroundImage = ''
+11.4195 	EXP 	window1: backgroundFit = 'none'
+11.4295 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.4303 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.4311 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.4321 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.4331 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.4335 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.4342 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.4352 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.4355 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.4357 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.4365 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.4372 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.4379 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.4386 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.4392 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.4400 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.4407 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.4411 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.4415 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.4425 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.4429 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.4432 	DEBUG 	Uploading Texture Font fontname to graphics card
+11.4473 	DEBUG 	Upload of Texture Font fontname complete
+11.4542 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.4553 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.4562 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.4565 	DEBUG 	Uploading Texture Font fontname to graphics card
+11.4591 	DEBUG 	Upload of Texture Font fontname complete
+11.4612 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+11.4612 	EXP 	window1: recordFrameIntervals = False
+11.6523 	EXP 	window1: recordFrameIntervals = True
+11.8206 	WARNING 	t of last frame was 24.91ms (=1/40)
+11.8540 	WARNING 	t of last frame was 24.22ms (=1/41)
+11.8856 	WARNING 	t of last frame was 23.26ms (=1/42)
+11.9541 	WARNING 	t of last frame was 25.29ms (=1/39)
+11.9867 	WARNING 	Multiple dropped frames have occurred - I'll stop bothering you about them!
+13.0711 	EXP 	Screen (0) actual frame rate measured at 60.07Hz
+13.0712 	EXP 	window1: recordFrameIntervals = False
+13.0852 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.0860 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.0876 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.0896 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.0913 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.0930 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.0936 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.0951 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.0967 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.0981 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.0985 	DEBUG 	Uploading Texture Font fontname to graphics card
+13.1021 	DEBUG 	Upload of Texture Font fontname complete
+13.1221 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+15.3325 	INFO 	keyboard.Keyboard is using iohub backend.
+15.3325 	INFO 	keyboard.Keyboard is using iohub backend.
+15.3473 	EXP 	2back_diagram: status = STARTED
+15.3674 	EXP 	Created fixation = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='fixation', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+15.4128 	EXP 	Sound sound_stim set volume 1.000
+15.4271 	EXP 	Created fixation2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-4.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='fixation2', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Sound playing:', units='height', win=Window(...), wrapWidth=1)
+15.4278 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+0.0127 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+0.0186 	EXP 	fixation: autoDraw = True
+1.0075 	INFO 	Keyboard events cleared
+1.0072 	EXP 	fixation2: autoDraw = True
+1.0095 	EXP 	Sound sound_stim reached end of file
+1.0096 	EXP 	Sound sound_stim started
+1.0238 	EXP 	fixation: autoDraw = False
+1.1272 	EXP 	Sound sound_stim reached end of file
+1.1449 	EXP 	Sound sound_stim reached end of file
+2.4935 	EXP 	New trial (rep=1, index=0): <Trial 1 (0 in rep 1) data={'thisN': 1, 'thisTrialN': 0, 'thisRepN': 1}>
+2.5077 	EXP 	fixation2: autoDraw = False
+2.5077 	EXP 	fixation: autoDraw = False
+2.5077 	EXP 	fixation2: autoDraw = False
+2.5077 	EXP 	fixation: autoDraw = True
+3.5079 	INFO 	Keyboard events cleared
+3.5076 	EXP 	fixation: autoDraw = False
+3.5076 	EXP 	fixation2: autoDraw = True
+3.5099 	EXP 	Sound sound_stim reached end of file
+3.5100 	EXP 	Sound sound_stim started
+3.6296 	EXP 	Sound sound_stim reached end of file
+3.6471 	EXP 	Sound sound_stim reached end of file
+4.9934 	EXP 	New trial (rep=2, index=0): <Trial 2 (0 in rep 2) data={'thisN': 2, 'thisTrialN': 0, 'thisRepN': 2}>
+5.0076 	EXP 	fixation2: autoDraw = False
+5.0076 	EXP 	fixation: autoDraw = False
+5.0076 	EXP 	fixation2: autoDraw = False
+5.0076 	EXP 	fixation: autoDraw = True
+6.0087 	INFO 	Keyboard events cleared
+6.0084 	EXP 	fixation: autoDraw = False
+6.0084 	EXP 	fixation2: autoDraw = True
+6.0109 	EXP 	Sound sound_stim reached end of file
+6.0110 	EXP 	Sound sound_stim started
+6.1286 	EXP 	Sound sound_stim reached end of file
+6.1433 	EXP 	Sound sound_stim reached end of file
+6.4968 	DATA 	Keypress: space
+7.4950 	EXP 	New trial (rep=3, index=0): <Trial 3 (0 in rep 3) data={'thisN': 3, 'thisTrialN': 0, 'thisRepN': 3}>
+7.5086 	EXP 	fixation2: autoDraw = False
+7.5086 	EXP 	fixation: autoDraw = False
+7.5086 	EXP 	fixation2: autoDraw = False
+7.5086 	EXP 	fixation: autoDraw = True
+8.5082 	INFO 	Keyboard events cleared
+8.5076 	EXP 	fixation: autoDraw = False
+8.5076 	EXP 	fixation2: autoDraw = True
+8.5112 	EXP 	Sound sound_stim reached end of file
+8.5113 	EXP 	Sound sound_stim started
+8.6302 	EXP 	Sound sound_stim reached end of file
+8.6363 	EXP 	Sound sound_stim reached end of file
+9.1702 	DATA 	Keypress: space
+9.9961 	EXP 	New trial (rep=4, index=0): <Trial 4 (0 in rep 4) data={'thisN': 4, 'thisTrialN': 0, 'thisRepN': 4}>
+10.0008 	EXP 	fixation2: autoDraw = False
+10.0008 	EXP 	fixation: autoDraw = False
+10.0008 	EXP 	fixation2: autoDraw = False
+10.0008 	EXP 	fixation: autoDraw = True
+11.0079 	INFO 	Keyboard events cleared
+11.0076 	EXP 	fixation: autoDraw = False
+11.0076 	EXP 	fixation2: autoDraw = True
+11.0101 	EXP 	Sound sound_stim reached end of file
+11.0101 	EXP 	Sound sound_stim started
+11.1278 	EXP 	Sound sound_stim reached end of file
+11.1363 	EXP 	Sound sound_stim reached end of file
+11.7456 	DATA 	Keypress: space
+12.4931 	EXP 	New trial (rep=5, index=0): <Trial 5 (0 in rep 5) data={'thisN': 5, 'thisTrialN': 0, 'thisRepN': 5}>
+12.5076 	EXP 	fixation2: autoDraw = False
+12.5076 	EXP 	fixation: autoDraw = False
+12.5076 	EXP 	fixation2: autoDraw = False
+12.5076 	EXP 	fixation: autoDraw = True
+13.5085 	INFO 	Keyboard events cleared
+13.5081 	EXP 	fixation: autoDraw = False
+13.5081 	EXP 	fixation2: autoDraw = True
+13.5107 	EXP 	Sound sound_stim reached end of file
+13.5108 	EXP 	Sound sound_stim started
+13.6288 	EXP 	Sound sound_stim reached end of file
+13.6367 	EXP 	Sound sound_stim reached end of file
+14.9934 	EXP 	New trial (rep=6, index=0): <Trial 6 (0 in rep 6) data={'thisN': 6, 'thisTrialN': 0, 'thisRepN': 6}>
+15.0086 	EXP 	fixation2: autoDraw = False
+15.0086 	EXP 	fixation: autoDraw = False
+15.0086 	EXP 	fixation2: autoDraw = False
+15.0086 	EXP 	fixation: autoDraw = True
+16.0089 	INFO 	Keyboard events cleared
+16.0086 	EXP 	fixation: autoDraw = False
+16.0086 	EXP 	fixation2: autoDraw = True
+16.0111 	EXP 	Sound sound_stim reached end of file
+16.0111 	EXP 	Sound sound_stim started
+16.1305 	EXP 	Sound sound_stim reached end of file
+16.1370 	EXP 	Sound sound_stim reached end of file
+17.4972 	EXP 	New trial (rep=7, index=0): <Trial 7 (0 in rep 7) data={'thisN': 7, 'thisTrialN': 0, 'thisRepN': 7}>
+17.5013 	EXP 	fixation2: autoDraw = False
+17.5013 	EXP 	fixation: autoDraw = False
+17.5013 	EXP 	fixation2: autoDraw = False
+17.5013 	EXP 	fixation: autoDraw = True
+18.5090 	INFO 	Keyboard events cleared
+18.5084 	EXP 	fixation: autoDraw = False
+18.5084 	EXP 	fixation2: autoDraw = True
+18.5126 	EXP 	Sound sound_stim reached end of file
+18.5126 	EXP 	Sound sound_stim started
+18.6431 	EXP 	Sound sound_stim reached end of file
+18.6598 	EXP 	Sound sound_stim reached end of file
+19.9934 	EXP 	New trial (rep=8, index=0): <Trial 8 (0 in rep 8) data={'thisN': 8, 'thisTrialN': 0, 'thisRepN': 8}>
+20.0076 	EXP 	fixation2: autoDraw = False
+20.0076 	EXP 	fixation: autoDraw = False
+20.0076 	EXP 	fixation2: autoDraw = False
+20.0076 	EXP 	fixation: autoDraw = True
+21.0078 	INFO 	Keyboard events cleared
+21.0075 	EXP 	fixation2: autoDraw = True
+21.0101 	EXP 	Sound sound_stim reached end of file
+21.0102 	EXP 	Sound sound_stim started
+21.0241 	EXP 	fixation: autoDraw = False
+21.1293 	EXP 	Sound sound_stim reached end of file
+21.1430 	EXP 	Sound sound_stim reached end of file
+22.4934 	EXP 	New trial (rep=9, index=0): <Trial 9 (0 in rep 9) data={'thisN': 9, 'thisTrialN': 0, 'thisRepN': 9}>
+22.5075 	EXP 	fixation2: autoDraw = False
+22.5075 	EXP 	fixation: autoDraw = False
+22.5075 	EXP 	fixation2: autoDraw = False
+22.5075 	EXP 	fixation: autoDraw = True
+23.5077 	INFO 	Keyboard events cleared
+23.5075 	EXP 	fixation2: autoDraw = True
+23.5100 	EXP 	Sound sound_stim reached end of file
+23.5100 	EXP 	Sound sound_stim started
+23.5242 	EXP 	fixation: autoDraw = False
+23.6274 	EXP 	Sound sound_stim reached end of file
+23.6456 	EXP 	Sound sound_stim reached end of file
+24.9944 	EXP 	New trial (rep=10, index=0): <Trial 10 (0 in rep 10) data={'thisN': 10, 'thisTrialN': 0, 'thisRepN': 10}>
+25.0076 	EXP 	fixation2: autoDraw = False
+25.0076 	EXP 	fixation: autoDraw = False
+25.0076 	EXP 	fixation2: autoDraw = False
+25.0076 	EXP 	fixation: autoDraw = True
+26.0078 	INFO 	Keyboard events cleared
+26.0075 	EXP 	fixation: autoDraw = False
+26.0075 	EXP 	fixation2: autoDraw = True
+26.0101 	EXP 	Sound sound_stim reached end of file
+26.0101 	EXP 	Sound sound_stim started
+26.1299 	EXP 	Sound sound_stim reached end of file
+26.1361 	EXP 	Sound sound_stim reached end of file
+27.4936 	EXP 	New trial (rep=11, index=0): <Trial 11 (0 in rep 11) data={'thisN': 11, 'thisTrialN': 0, 'thisRepN': 11}>
+27.5076 	EXP 	fixation2: autoDraw = False
+27.5076 	EXP 	fixation: autoDraw = False
+27.5076 	EXP 	fixation2: autoDraw = False
+27.5076 	EXP 	fixation: autoDraw = True
+28.5078 	INFO 	Keyboard events cleared
+28.5075 	EXP 	fixation: autoDraw = False
+28.5075 	EXP 	fixation2: autoDraw = True
+28.5101 	EXP 	Sound sound_stim reached end of file
+28.5101 	EXP 	Sound sound_stim started
+28.6298 	EXP 	Sound sound_stim reached end of file
+28.6362 	EXP 	Sound sound_stim reached end of file
+30.0095 	EXP 	New trial (rep=12, index=0): <Trial 12 (0 in rep 12) data={'thisN': 12, 'thisTrialN': 0, 'thisRepN': 12}>
+30.0241 	EXP 	fixation: autoDraw = False
+30.0241 	EXP 	fixation2: autoDraw = False
+30.0241 	EXP 	fixation: autoDraw = True
+31.0094 	INFO 	Keyboard events cleared
+31.0087 	EXP 	fixation2: autoDraw = True
+31.0130 	EXP 	Sound sound_stim reached end of file
+31.0130 	EXP 	Sound sound_stim started
+31.0242 	EXP 	fixation: autoDraw = False
+31.1264 	EXP 	Sound sound_stim reached end of file
+31.1464 	EXP 	Sound sound_stim reached end of file
+32.5094 	EXP 	New trial (rep=13, index=0): <Trial 13 (0 in rep 13) data={'thisN': 13, 'thisTrialN': 0, 'thisRepN': 13}>
+32.5241 	EXP 	fixation: autoDraw = False
+32.5241 	EXP 	fixation2: autoDraw = False
+32.5241 	EXP 	fixation: autoDraw = True
+33.5009 	INFO 	Keyboard events cleared
+33.5006 	EXP 	fixation2: autoDraw = True
+33.5031 	EXP 	Sound sound_stim reached end of file
+33.5031 	EXP 	Sound sound_stim started
+33.5408 	EXP 	fixation: autoDraw = False
+33.6264 	EXP 	Sound sound_stim reached end of file
+33.6441 	EXP 	Sound sound_stim reached end of file
+34.9943 	EXP 	New trial (rep=14, index=0): <Trial 14 (0 in rep 14) data={'thisN': 14, 'thisTrialN': 0, 'thisRepN': 14}>
+35.0071 	EXP 	fixation2: autoDraw = False
+35.0071 	EXP 	fixation: autoDraw = False
+35.0071 	EXP 	fixation2: autoDraw = False
+35.0071 	EXP 	fixation: autoDraw = True
+36.0098 	INFO 	Keyboard events cleared
+36.0090 	EXP 	fixation: autoDraw = False
+36.0090 	EXP 	fixation2: autoDraw = True
+36.0132 	EXP 	Sound sound_stim reached end of file
+36.0133 	EXP 	Sound sound_stim started
+36.1264 	EXP 	Sound sound_stim reached end of file
+36.1430 	EXP 	Sound sound_stim reached end of file
+36.5148 	DATA 	Keypress: space
+37.5189 	EXP 	fixation: autoDraw = False
+37.5189 	EXP 	fixation2: autoDraw = False
+37.5189 	EXP 	text: height = 0.05
+37.5189 	EXP 	text: height = 0.05
+37.5189 	EXP 	text: height = 0.05
+37.5189 	EXP 	text: text = 'Accuracy: 46.7%'
+37.5189 	EXP 	text: autoDraw = True
+42.5243 	EXP 	text: autoDraw = False
+42.5276 	EXP 	2back_diagram: status = STOPPED
+42.5313 	INFO 	saved data to '/Users/ginkgocauwenberghs/Desktop/nBack/data/joe_2back_diagram_2025-07-25_17h22.42.122.csv'
+42.5318 	INFO 	saved data to /Users/ginkgocauwenberghs/Desktop/nBack/data/joe_2back_diagram_2025-07-25_17h22.42.122.psydat
+42.8677 	DEBUG 	Saving data for 2back_diagram ExperimentHandler

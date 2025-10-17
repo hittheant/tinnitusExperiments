@@ -1,0 +1,11 @@
+3.1793 	WARNING 	Monitor specification not found. Creating a temporary one...
+3.6558 	INFO 	Using renderer 'Intel(R) UHD Graphics 770' for graphics
+3.6558 	INFO 	OpenGL version supported by driver is 4..
+4.2477 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000024679460D00>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000024679460CA0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=True, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x00000246797AA0D0>, multiSample=False, name='window1', numSamples=2, pos=(0, 0), screen=0, size=array([2560, 1440]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=False, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+4.2477 	EXP 	window1: backgroundImage = None
+4.2477 	EXP 	window1: backgroundFit = 'cover'
+4.2479 	EXP 	window1: backgroundImage = ''
+4.2479 	EXP 	window1: backgroundFit = 'none'
+4.2479 	EXP 	window1: units = 'height'
+5.8051 	INFO 	saved data to c:\Users\Adyant Balaji\Documents\EEG\tinnitusExperiments\WorkingMemory\data\914775_2back_diagram_2025-10-16_13h28.43.330.psydat
+5.8062 	INFO 	saved data to 'c:\\Users\\Adyant Balaji\\Documents\\EEG\\tinnitusExperiments\\WorkingMemory\\data\\914775_2back_diagram_2025-10-16_13h28.43.330.csv'

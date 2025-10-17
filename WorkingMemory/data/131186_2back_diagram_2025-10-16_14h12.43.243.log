@@ -1,0 +1,19 @@
+0.7221 	WARNING 	Requested audio device 'Speakers (Logi USB Headset)' that is not available on this hardware. The 'audioDevice' preference should be one of ['Remote Audio']
+2.9061 	INFO 	Loaded monitor calibration from ['2023_11_01 17:25']
+2.9717 	INFO 	Using renderer 'Intel(R) UHD Graphics 770' for graphics
+2.9717 	INFO 	OpenGL version supported by driver is 4..
+2.9801 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000023A0CF1BD60>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000023A0CF1BD00>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=True, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0000023A0DDDC130>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1470,  919]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+2.9801 	EXP 	window1: backgroundImage = ''
+2.9801 	EXP 	window1: backgroundFit = 'none'
+3.1958 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+3.1958 	EXP 	window1: recordFrameIntervals = False
+3.4610 	EXP 	window1: recordFrameIntervals = True
+3.5237 	WARNING 	t of last frame was 32.04ms (=1/31)
+3.5542 	WARNING 	t of last frame was 30.54ms (=1/32)
+3.5856 	WARNING 	t of last frame was 31.36ms (=1/31)
+3.6166 	WARNING 	t of last frame was 31.03ms (=1/32)
+3.6485 	WARNING 	Multiple dropped frames have occurred - I'll stop bothering you about them!
+3.8050 	EXP 	Screen (0) actual frame rate measured at 31.98Hz
+3.8051 	EXP 	window1: recordFrameIntervals = False
+5.1172 	INFO 	saved data to c:\Users\Adyant Balaji\Documents\EEG\tinnitusExperiments\WorkingMemory\data\131186_2back_diagram_2025-10-16_14h12.43.243.psydat
+5.1185 	INFO 	saved data to 'c:\\Users\\Adyant Balaji\\Documents\\EEG\\tinnitusExperiments\\WorkingMemory\\data\\131186_2back_diagram_2025-10-16_14h12.43.243.csv'

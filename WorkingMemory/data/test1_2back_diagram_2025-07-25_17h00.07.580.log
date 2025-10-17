@@ -1,0 +1,78 @@
+11.2938 	DEBUG 	Fullscreen settings ignored as running in pilot mode.
+11.2956 	INFO 	Loaded monitor calibration from ['2025_07_24 15:50']
+11.5164 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x159102c50>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x159102cb0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=False, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x1590f6b30>, multiSample=False, name='window1', numSamples=2, pos=[356.0, 191.0], screen=0, size=array([1600, 1200]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+11.5165 	EXP 	window1: backgroundImage = ''
+11.5165 	EXP 	window1: backgroundFit = 'none'
+11.5272 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.5280 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.5288 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.5298 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.5308 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.5312 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.5319 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.5329 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.5331 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.5334 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.5342 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.5349 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.5355 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.5363 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.5369 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.5377 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.5384 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.5388 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.5392 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.5403 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.5406 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.5409 	DEBUG 	Uploading Texture Font fontname to graphics card
+11.5451 	DEBUG 	Upload of Texture Font fontname complete
+11.5522 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.5532 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.5542 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.5545 	DEBUG 	Uploading Texture Font fontname to graphics card
+11.5571 	DEBUG 	Upload of Texture Font fontname complete
+11.5592 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+11.5592 	EXP 	window1: recordFrameIntervals = False
+11.7444 	EXP 	window1: recordFrameIntervals = True
+11.9301 	WARNING 	t of last frame was 25.17ms (=1/39)
+11.9613 	WARNING 	t of last frame was 23.02ms (=1/43)
+12.0279 	WARNING 	t of last frame was 23.11ms (=1/43)
+12.0779 	WARNING 	t of last frame was 23.04ms (=1/43)
+12.1280 	WARNING 	Multiple dropped frames have occurred - I'll stop bothering you about them!
+13.4114 	WARNING 	Couldn't measure a consistent frame rate!
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+13.4244 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.4252 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.4268 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.4288 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.4304 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.4321 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.4327 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.4343 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.4358 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.4371 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.4375 	DEBUG 	Uploading Texture Font fontname to graphics card
+13.4411 	DEBUG 	Upload of Texture Font fontname complete
+13.4602 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+15.6701 	INFO 	keyboard.Keyboard is using iohub backend.
+15.6702 	INFO 	keyboard.Keyboard is using iohub backend.
+15.6852 	EXP 	2back_diagram: status = STARTED
+15.7052 	EXP 	Created fixation = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='fixation', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+15.7528 	EXP 	Sound sound_stim set volume 1.000
+15.7678 	EXP 	Created fixation2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-4.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='fixation2', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Sound playing:', units='height', win=Window(...), wrapWidth=1)
+15.7686 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+0.0128 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+0.0208 	EXP 	fixation: autoDraw = True
+1.0035 	INFO 	Keyboard events cleared
+1.0032 	EXP 	fixation2: autoDraw = True
+1.0060 	EXP 	Sound sound_stim reached end of file
+1.0060 	EXP 	Sound sound_stim started
+1.0259 	EXP 	fixation: autoDraw = False
+1.1283 	EXP 	Sound sound_stim reached end of file
+1.1487 	EXP 	Sound sound_stim reached end of file
+1.5823 	DATA 	Keypress: space
+2.6365 	DEBUG 	Saving data for 2back_diagram ExperimentHandler
+2.6379 	INFO 	saved data to /Users/ginkgocauwenberghs/Desktop/nBack/data/test1_2back_diagram_2025-07-25_17h00.07.580.psydat
+2.6386 	INFO 	saved data to '/Users/ginkgocauwenberghs/Desktop/nBack/data/test1_2back_diagram_2025-07-25_17h00.07.580.csv'

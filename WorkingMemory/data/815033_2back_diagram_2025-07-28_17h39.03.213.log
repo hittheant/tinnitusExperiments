@@ -1,0 +1,84 @@
+15.4778 	DEBUG 	Fullscreen settings ignored as running in pilot mode.
+15.4787 	INFO 	Loaded monitor calibration from ['2023_11_01 17:25']
+16.5240 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000025FCFE917F0>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000025FCFE91790>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000025FCFE915E0>, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0000025FD43F6790>, multiSample=False, name='window1', numSamples=2, pos=[880.0, 420.0], screen=0, size=array([800, 600]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+16.5241 	EXP 	window1: backgroundImage = ''
+16.5241 	EXP 	window1: backgroundFit = 'none'
+16.5243 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x0000025FCFE91910>
+16.5245 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x0000025FCFE91910>
+16.5336 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x0000025FCFE91910>
+16.5339 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x0000025FCFE91910>
+16.5471 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.5479 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.5486 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.5493 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.5501 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.5506 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.5512 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.5520 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.5524 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.5529 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.5536 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.5543 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.5549 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.5555 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.5561 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.5568 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.5574 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.5579 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.5585 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.5594 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.5601 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.5603 	DEBUG 	Uploading Texture Font fontname to graphics card
+16.5681 	DEBUG 	Upload of Texture Font fontname complete
+16.5691 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x0000025FCFE91910>
+16.5692 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x0000025FCFE91910>
+16.5696 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x0000025FCFE91910>
+16.5698 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x0000025FCFE91910>
+16.5724 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.5732 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.5739 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.5740 	DEBUG 	Uploading Texture Font fontname to graphics card
+16.5797 	DEBUG 	Upload of Texture Font fontname complete
+16.5808 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+16.5808 	EXP 	window1: recordFrameIntervals = False
+16.7406 	EXP 	window1: recordFrameIntervals = True
+16.9245 	EXP 	Screen (0) actual frame rate measured at 59.94Hz
+16.9245 	EXP 	window1: recordFrameIntervals = False
+16.9252 	EXP 	window1: mouseVisible = False
+16.9261 	EXP 	window1: mouseVisible = False
+16.9265 	EXP 	window1: mouseVisible = False
+16.9279 	EXP 	window1: mouseVisible = False
+16.9293 	EXP 	window1: mouseVisible = False
+16.9381 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.9394 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.9406 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.9418 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.9428 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.9437 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.9443 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.9450 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.9458 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.9466 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+16.9467 	DEBUG 	Uploading Texture Font fontname to graphics card
+16.9472 	DEBUG 	Upload of Texture Font fontname complete
+16.9481 	EXP 	window1: mouseVisible = False
+16.9482 	EXP 	window1: mouseVisible = False
+16.9484 	EXP 	window1: mouseVisible = False
+16.9487 	EXP 	window1: mouseVisible = False
+17.0862 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+22.4494 	INFO 	keyboard.Keyboard is using iohub backend.
+22.4495 	INFO 	keyboard.Keyboard is using iohub backend.
+22.4602 	EXP 	2back_diagram: status = STARTED
+22.4604 	EXP 	window1: mouseVisible = False
+22.6510 	EXP 	Created fixation = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='fixation', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+22.6729 	EXP 	Sound sound_stim set volume 1.000
+22.6730 	EXP 	window1: mouseVisible = False
+22.6865 	EXP 	Created fixation2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-4.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='fixation2', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Sound playing:', units='height', win=Window(...), wrapWidth=1)
+22.6866 	EXP 	window1: mouseVisible = False
+22.6872 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+0.0206 	EXP 	Created sequence: sequential, trialTypes=1, nReps=15, seed=None
+0.0208 	EXP 	New trial (rep=0, index=0): None
+0.0437 	EXP 	window1: mouseVisible = True
+0.0447 	DEBUG 	Saving data for 2back_diagram ExperimentHandler
+0.0452 	INFO 	saved data to C:\Users\Adyant Balaji\Downloads\nBack-20250729T003258Z-1-001\nBack\data/815033_2back_diagram_2025-07-28_17h39.03.213.psydat
+0.0458 	INFO 	saved data to 'C:\\Users\\Adyant Balaji\\Downloads\\nBack-20250729T003258Z-1-001\\nBack\\data/815033_2back_diagram_2025-07-28_17h39.03.213.csv'

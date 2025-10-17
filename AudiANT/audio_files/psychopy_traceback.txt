@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File “/Applications/PsychoPy.app/Contents/Resources/lib/python3.10/psychopy/app/builder/builder.py”, line 1395, in pilotFile
+  File “/Applications/PsychoPy.app/Contents/Resources/lib/python3.10/psychopy/app/builder/builder.py”, line 1330, in sendToRunner
+  File “/Applications/PsychoPy.app/Contents/Resources/lib/python3.10/psychopy/app/builder/builder.py”, line 814, in fileSave
+  File “/Applications/PsychoPy.app/Contents/Resources/lib/python3.10/psychopy/experiment/_experiment.py”, line 523, in saveToXML
+  File “codecs.pyc”, line 906, in open
+FileNotFoundError: [Errno 2] No such file or directory: ‘/Users/nathanchang/Desktop/San Diego Tinnitus/Auditory_ANT.psyexp’

@@ -1,0 +1,13 @@
+4.5333 	INFO 	Loaded monitor calibration from ['2023_11_01 17:25']
+4.9525 	INFO 	Using renderer 'Intel(R) UHD Graphics 770' for graphics
+4.9526 	INFO 	OpenGL version supported by driver is 4..
+4.9781 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000268EF750D00>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000268EF750CA0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=True, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x00000268EFA9E0D0>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([2560, 1440]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+4.9782 	EXP 	window1: backgroundImage = ''
+4.9782 	EXP 	window1: backgroundFit = 'none'
+5.2140 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+5.2140 	EXP 	window1: recordFrameIntervals = False
+5.3454 	EXP 	window1: recordFrameIntervals = True
+5.5288 	EXP 	Screen (0) actual frame rate measured at 60.01Hz
+5.5288 	EXP 	window1: recordFrameIntervals = False
+7.0560 	INFO 	saved data to c:\Users\Adyant Balaji\Documents\EEG\tinnitusExperiments\WorkingMemory\data\268384_2back_diagram_2025-10-16_13h20.24.924.psydat
+7.0573 	INFO 	saved data to 'c:\\Users\\Adyant Balaji\\Documents\\EEG\\tinnitusExperiments\\WorkingMemory\\data\\268384_2back_diagram_2025-10-16_13h20.24.924.csv'

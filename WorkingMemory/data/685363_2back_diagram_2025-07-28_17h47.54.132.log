@@ -1,0 +1,159 @@
+4.6405 	DEBUG 	Fullscreen settings ignored as running in pilot mode.
+4.6410 	INFO 	Loaded monitor calibration from ['2023_11_01 17:25']
+4.7493 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000029B41BE0C10>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000029B41BE0BB0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000029B41BE0A00>, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0000029B46145BB0>, multiSample=False, name='window1', numSamples=2, pos=[880.0, 420.0], screen=0, size=array([800, 600]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+4.7493 	EXP 	window1: backgroundImage = ''
+4.7494 	EXP 	window1: backgroundFit = 'none'
+4.7495 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x0000029B41BE0D30>
+4.7496 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x0000029B41BE0D30>
+4.7507 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x0000029B41BE0D30>
+4.7510 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x0000029B41BE0D30>
+4.7539 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.7546 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.7553 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.7561 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.7569 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.7574 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.7580 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.7588 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.7592 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.7597 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.7603 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.7610 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.7616 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.7622 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.7628 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.7635 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.7642 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.7648 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.7653 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.7661 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.7666 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.7668 	DEBUG 	Uploading Texture Font fontname to graphics card
+4.7705 	DEBUG 	Upload of Texture Font fontname complete
+4.7714 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x0000029B41BE0D30>
+4.7715 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x0000029B41BE0D30>
+4.7718 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x0000029B41BE0D30>
+4.7721 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x0000029B41BE0D30>
+4.7752 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.7763 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.7772 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+4.7774 	DEBUG 	Uploading Texture Font fontname to graphics card
+4.7804 	DEBUG 	Upload of Texture Font fontname complete
+4.7815 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+4.7815 	EXP 	window1: recordFrameIntervals = False
+4.9499 	EXP 	window1: recordFrameIntervals = True
+5.1334 	EXP 	Screen (0) actual frame rate measured at 60.08Hz
+5.1335 	EXP 	window1: recordFrameIntervals = False
+5.1337 	EXP 	window1: mouseVisible = False
+5.1345 	EXP 	window1: mouseVisible = False
+5.1348 	EXP 	window1: mouseVisible = False
+5.1368 	EXP 	window1: mouseVisible = False
+5.1382 	EXP 	window1: mouseVisible = False
+5.1473 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.1486 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.1498 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.1510 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.1520 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.1529 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.1534 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.1542 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.1550 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.1557 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.1559 	DEBUG 	Uploading Texture Font fontname to graphics card
+5.1563 	DEBUG 	Upload of Texture Font fontname complete
+5.1573 	EXP 	window1: mouseVisible = False
+5.1574 	EXP 	window1: mouseVisible = False
+5.1577 	EXP 	window1: mouseVisible = False
+5.1580 	EXP 	window1: mouseVisible = False
+5.1884 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+10.0691 	INFO 	keyboard.Keyboard is using iohub backend.
+10.0691 	INFO 	keyboard.Keyboard is using iohub backend.
+10.0697 	EXP 	2back_diagram: status = STARTED
+10.0699 	EXP 	window1: mouseVisible = False
+10.1383 	EXP 	Created fixation = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='fixation', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+10.1576 	EXP 	Sound sound_stim set volume 1.000
+10.1577 	EXP 	window1: mouseVisible = False
+10.1668 	EXP 	Created fixation2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-4.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='fixation2', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Sound playing:', units='height', win=Window(...), wrapWidth=1)
+10.1668 	EXP 	window1: mouseVisible = False
+10.1674 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+0.0200 	EXP 	Created sequence: sequential, trialTypes=1, nReps=15, seed=None
+0.0201 	EXP 	New trial (rep=0, index=0): None
+0.0330 	EXP 	fixation: autoDraw = True
+1.0046 	EXP 	Sound sound_stim started
+1.0159 	INFO 	Keyboard events cleared
+1.0150 	EXP 	fixation2: autoDraw = True
+1.0483 	EXP 	fixation: autoDraw = False
+1.7042 	EXP 	Sound sound_stim reached end of file
+1.7044 	EXP 	Sound sound_stim reached end of file
+2.5135 	EXP 	New trial (rep=1, index=0): None
+2.5311 	EXP 	fixation: autoDraw = False
+2.5311 	EXP 	fixation2: autoDraw = False
+2.5311 	EXP 	fixation: autoDraw = True
+3.5027 	EXP 	Sound sound_stim started
+3.5154 	INFO 	Keyboard events cleared
+3.5148 	EXP 	fixation2: autoDraw = True
+3.5316 	EXP 	fixation: autoDraw = False
+4.1566 	EXP 	Sound sound_stim reached end of file
+4.1568 	EXP 	Sound sound_stim reached end of file
+5.0040 	EXP 	New trial (rep=2, index=0): None
+5.0149 	EXP 	fixation: autoDraw = False
+5.0149 	EXP 	fixation2: autoDraw = False
+5.0149 	EXP 	fixation: autoDraw = True
+6.0156 	INFO 	Keyboard events cleared
+6.0149 	EXP 	fixation: autoDraw = False
+6.0149 	EXP 	fixation2: autoDraw = True
+6.0211 	EXP 	Sound sound_stim started
+6.6759 	EXP 	Sound sound_stim reached end of file
+6.6760 	EXP 	Sound sound_stim reached end of file
+7.5047 	EXP 	New trial (rep=3, index=0): None
+7.5151 	EXP 	fixation: autoDraw = False
+7.5151 	EXP 	fixation2: autoDraw = False
+7.5151 	EXP 	fixation: autoDraw = True
+8.5005 	EXP 	Sound sound_stim started
+8.5158 	INFO 	Keyboard events cleared
+8.5152 	EXP 	fixation: autoDraw = False
+8.5152 	EXP 	fixation2: autoDraw = True
+9.1558 	EXP 	Sound sound_stim reached end of file
+9.1559 	EXP 	Sound sound_stim reached end of file
+10.0011 	EXP 	New trial (rep=4, index=0): None
+10.0155 	EXP 	fixation: autoDraw = False
+10.0155 	EXP 	fixation2: autoDraw = False
+10.0155 	EXP 	fixation: autoDraw = True
+11.0037 	EXP 	Sound sound_stim started
+11.0161 	INFO 	Keyboard events cleared
+11.0155 	EXP 	fixation: autoDraw = False
+11.0155 	EXP 	fixation2: autoDraw = True
+11.7033 	EXP 	Sound sound_stim reached end of file
+11.7033 	EXP 	Sound sound_stim reached end of file
+12.5038 	EXP 	New trial (rep=5, index=0): None
+12.5149 	EXP 	fixation: autoDraw = False
+12.5149 	EXP 	fixation2: autoDraw = False
+12.5149 	EXP 	fixation: autoDraw = True
+13.5034 	EXP 	Sound sound_stim started
+13.5153 	INFO 	Keyboard events cleared
+13.5148 	EXP 	fixation: autoDraw = False
+13.5148 	EXP 	fixation2: autoDraw = True
+14.2039 	EXP 	Sound sound_stim reached end of file
+14.2040 	EXP 	Sound sound_stim reached end of file
+15.0046 	EXP 	New trial (rep=6, index=0): None
+15.0148 	EXP 	fixation: autoDraw = False
+15.0148 	EXP 	fixation2: autoDraw = False
+15.0148 	EXP 	fixation: autoDraw = True
+16.0001 	EXP 	Sound sound_stim started
+16.0148 	INFO 	Keyboard events cleared
+16.0144 	EXP 	fixation: autoDraw = False
+16.0144 	EXP 	fixation2: autoDraw = True
+16.7155 	EXP 	Sound sound_stim reached end of file
+16.7156 	EXP 	Sound sound_stim reached end of file
+17.4988 	EXP 	New trial (rep=7, index=0): None
+17.5143 	EXP 	fixation2: autoDraw = False
+17.5143 	EXP 	fixation: autoDraw = False
+17.5143 	EXP 	fixation2: autoDraw = False
+17.5143 	EXP 	fixation: autoDraw = True
+17.8037 	EXP 	2back_diagram: status = STOPPED
+17.8148 	EXP 	fixation: autoDraw = False
+17.8199 	EXP 	2back_diagram: status = STOPPED
+17.8265 	INFO 	saved data to 'C:\\Users\\Adyant Balaji\\Downloads\\nBack-20250729T003258Z-1-001\\nBack\\data/685363_2back_diagram_2025-07-28_17h47.54.132.csv'
+17.8275 	INFO 	saved data to C:\Users\Adyant Balaji\Downloads\nBack-20250729T003258Z-1-001\nBack\data/685363_2back_diagram_2025-07-28_17h47.54.132.psydat
+17.8407 	EXP 	window1: mouseVisible = True
+18.3553 	DEBUG 	Saving data for 2back_diagram ExperimentHandler

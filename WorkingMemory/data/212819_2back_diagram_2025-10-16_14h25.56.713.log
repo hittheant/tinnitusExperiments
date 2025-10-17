@@ -1,0 +1,23 @@
+0.6678 	WARNING 	Requested audio device 'Speakers (Logi USB Headset)' that is not available on this hardware. The 'audioDevice' preference should be one of ['Remote Audio']
+2.2812 	INFO 	Loaded monitor calibration from ['2023_11_01 17:25']
+2.3473 	INFO 	Using renderer 'Intel(R) UHD Graphics 770' for graphics
+2.3473 	INFO 	OpenGL version supported by driver is 4..
+2.3556 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000027E8173FD30>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000027E8173FCD0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=True, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0000027E825FB100>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1470,  919]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+2.3557 	EXP 	window1: backgroundImage = ''
+2.3557 	EXP 	window1: backgroundFit = 'none'
+2.5689 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+2.5689 	EXP 	window1: recordFrameIntervals = False
+2.8417 	EXP 	window1: recordFrameIntervals = True
+2.9036 	WARNING 	t of last frame was 31.06ms (=1/32)
+2.9348 	WARNING 	t of last frame was 31.23ms (=1/32)
+2.9664 	WARNING 	t of last frame was 31.56ms (=1/31)
+2.9974 	WARNING 	t of last frame was 31.05ms (=1/32)
+3.0286 	WARNING 	Multiple dropped frames have occurred - I'll stop bothering you about them!
+3.1854 	EXP 	Screen (0) actual frame rate measured at 32.03Hz
+3.1854 	EXP 	window1: recordFrameIntervals = False
+3.2807 	INFO 	keyboard.Keyboard is using ptb backend.
+3.2808 	INFO 	keyboard.Keyboard is using ptb backend.
+3.2943 	INFO 	saved data to c:\Users\Adyant Balaji\Documents\EEG\tinnitusExperiments\WorkingMemory\data\212819_2back_diagram_2025-10-16_14h25.56.713.psydat
+3.2953 	INFO 	saved data to 'c:\\Users\\Adyant Balaji\\Documents\\EEG\\tinnitusExperiments\\WorkingMemory\\data\\212819_2back_diagram_2025-10-16_14h25.56.713.csv'
+3.3000 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+3.3827 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.

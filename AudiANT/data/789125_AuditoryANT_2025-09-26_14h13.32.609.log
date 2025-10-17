@@ -1,0 +1,108 @@
+2.7520 	INFO 	Loaded monitor calibration from ['2023_11_01 17:25']
+2.7578 	WARNING 	User requested fullscreen with size [1512  982], but screen is actually [2560, 1440]. Using actual size
+3.2688 	INFO 	Using renderer 'Intel(R) UHD Graphics 770' for graphics
+3.2689 	INFO 	OpenGL version supported by driver is 4..
+3.2789 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000025232091730>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000252320916D0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=True, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0000025232107220>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([2560, 1440]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+3.2790 	EXP 	window1: backgroundImage = ''
+3.2790 	EXP 	window1: backgroundFit = 'none'
+3.3513 	INFO 	keyboard.Keyboard is using ptb backend.
+3.3795 	INFO 	Created stream for speaker device: Speakers (Logi USB Headset) (7.0)
+3.3803 	INFO 	keyboard.Keyboard is using ptb backend.
+3.3823 	INFO 	Created stream for speaker device: Speakers (Logi USB Headset) (7.0)
+3.3827 	EXP 	AuditoryANT: status = STARTED
+3.4071 	EXP 	Created fixation_cross = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='fixation_cross', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='+', units='height', win=Window(...), wrapWidth=1)
+3.4071 	EXP 	target: sampleRate = 48000
+3.4071 	EXP 	target: channels = None
+3.4083 	EXP 	Sound target set volume 1.000
+3.4083 	EXP 	orienting_cue: sampleRate = 48000
+3.4083 	EXP 	orienting_cue: channels = None
+3.4084 	EXP 	Sound orienting_cue set volume 1.000
+0.0126 	EXP 	Imported audio_files/conditions.csv as conditions, 24 conditions, 8 params
+0.0131 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'block': 1.0, 'target_word': 'day', 'target_pitch': 'LP', 'cue_type': 'alerting', 'cue_file': 'C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/alerting_cue.wav', 'target_file': 'C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/day_LP_left.wav', 'correct_resp': 'down', 'ear': 'left', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+0.0133 	EXP 	target: sampleRate = 44100
+0.0235 	INFO 	Resampled audio from 44100Hz to 48000Hz using method 'default'.
+0.0239 	EXP 	orienting_cue: sampleRate = 44100
+0.0248 	INFO 	Resampled audio from 44100Hz to 48000Hz using method 'default'.
+0.0249 	EXP 	Sound orienting_cue set volume 0.000
+0.0275 	EXP 	fixation_cross: autoDraw = True
+0.7042 	EXP 	Sound orienting_cue reached end of file
+0.7205 	EXP 	Playing sound orienting_cue on speaker Speakers (Logi USB Headset)
+0.7207 	INFO 	Keyboard events cleared
+0.8215 	EXP 	Sound orienting_cue stopped
+1.2047 	EXP 	Sound target reached end of file
+1.2209 	EXP 	Playing sound target on speaker Speakers (Logi USB Headset)
+2.2733 	EXP 	Sound target reached end of file
+2.2883 	EXP 	Sound target reached end of file
+2.9058 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'block': None, 'target_word': 'high', 'target_pitch': 'HP', 'cue_type': 'orienting', 'cue_file': 'C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/orienting_right.wav', 'target_file': 'C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/high_HP_right.wav', 'correct_resp': 'up', 'ear': 'right', 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+2.9063 	EXP 	target: sampleRate = 44100
+2.9124 	INFO 	Resampled audio from 44100Hz to 48000Hz using method 'default'.
+2.9129 	EXP 	orienting_cue: sampleRate = 44100
+2.9146 	INFO 	Resampled audio from 44100Hz to 48000Hz using method 'default'.
+2.9223 	EXP 	fixation_cross: autoDraw = False
+2.9223 	EXP 	fixation_cross: autoDraw = True
+4.3904 	EXP 	Sound orienting_cue reached end of file
+4.4067 	EXP 	Playing sound orienting_cue on speaker Speakers (Logi USB Headset)
+4.4070 	INFO 	Keyboard events cleared
+4.5053 	EXP 	Sound orienting_cue stopped
+4.8909 	EXP 	Sound target reached end of file
+4.9072 	EXP 	Playing sound target on speaker Speakers (Logi USB Headset)
+5.5168 	EXP 	Sound target reached end of file
+5.5249 	EXP 	Sound target reached end of file
+6.1089 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'block': 1.0, 'target_word': 'day', 'target_pitch': 'LP', 'cue_type': 'orienting', 'cue_file': 'C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/orienting_left.wav', 'target_file': 'C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/day_LP_left.wav', 'correct_resp': 'down', 'ear': 'left', 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+6.1097 	EXP 	target: sampleRate = 44100
+6.1311 	INFO 	Resampled audio from 44100Hz to 48000Hz using method 'default'.
+6.1322 	EXP 	orienting_cue: sampleRate = 44100
+6.1356 	INFO 	Resampled audio from 44100Hz to 48000Hz using method 'default'.
+6.1383 	EXP 	fixation_cross: autoDraw = False
+6.1383 	EXP 	fixation_cross: autoDraw = False
+6.1383 	EXP 	fixation_cross: autoDraw = True
+7.0258 	EXP 	Sound orienting_cue reached end of file
+7.0422 	EXP 	Playing sound orienting_cue on speaker Speakers (Logi USB Headset)
+7.0424 	INFO 	Keyboard events cleared
+7.1417 	EXP 	Sound orienting_cue stopped
+7.5264 	EXP 	Sound target reached end of file
+7.5427 	EXP 	Playing sound target on speaker Speakers (Logi USB Headset)
+8.6012 	EXP 	Sound target reached end of file
+8.6109 	EXP 	Sound target reached end of file
+9.2280 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'block': None, 'target_word': 'day', 'target_pitch': 'LP', 'cue_type': 'orienting', 'cue_file': 'C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/orienting_right.wav', 'target_file': 'C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/day_LP_right.wav', 'correct_resp': 'down', 'ear': 'right', 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+9.2289 	EXP 	target: sampleRate = 44100
+9.2502 	INFO 	Resampled audio from 44100Hz to 48000Hz using method 'default'.
+9.2505 	EXP 	orienting_cue: sampleRate = 44100
+9.2516 	INFO 	Resampled audio from 44100Hz to 48000Hz using method 'default'.
+9.2537 	EXP 	fixation_cross: autoDraw = False
+9.2537 	EXP 	fixation_cross: autoDraw = True
+10.5454 	EXP 	Sound orienting_cue reached end of file
+10.5617 	EXP 	Playing sound orienting_cue on speaker Speakers (Logi USB Headset)
+10.5621 	INFO 	Keyboard events cleared
+10.6534 	EXP 	Sound orienting_cue stopped
+11.0460 	EXP 	Sound target reached end of file
+11.0622 	EXP 	Playing sound target on speaker Speakers (Logi USB Headset)
+12.1230 	EXP 	Sound target reached end of file
+12.1303 	EXP 	Sound target reached end of file
+12.4467 	EXP 	New trial (rep=0, index=4): <Trial 4 (4 in rep 0) data={'block': None, 'target_word': 'high', 'target_pitch': 'LP', 'cue_type': 'alerting', 'cue_file': 'C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/alerting_cue.wav', 'target_file': 'C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/high_LP_right.wav', 'correct_resp': 'down', 'ear': 'right', 'thisN': 4, 'thisTrialN': 4, 'thisRepN': 0}>
+12.4470 	EXP 	target: sampleRate = 44100
+12.4544 	INFO 	Resampled audio from 44100Hz to 48000Hz using method 'default'.
+12.4550 	EXP 	orienting_cue: sampleRate = 44100
+12.4557 	INFO 	Resampled audio from 44100Hz to 48000Hz using method 'default'.
+12.4557 	EXP 	Sound orienting_cue set volume 0.000
+12.4633 	EXP 	fixation_cross: autoDraw = False
+12.4633 	EXP 	fixation_cross: autoDraw = False
+12.4633 	EXP 	fixation_cross: autoDraw = True
+13.4647 	EXP 	Sound orienting_cue reached end of file
+13.4810 	EXP 	Playing sound orienting_cue on speaker Speakers (Logi USB Headset)
+13.4811 	INFO 	Keyboard events cleared
+13.5753 	EXP 	Sound orienting_cue stopped
+13.9651 	EXP 	Sound target reached end of file
+13.9813 	EXP 	Playing sound target on speaker Speakers (Logi USB Headset)
+15.0403 	EXP 	Sound target reached end of file
+15.0493 	EXP 	Sound target reached end of file
+15.1448 	EXP 	Device response: <KeyPress from None: t=15.128991699995822, value=escape, duration=None>
+15.1464 	DATA 	Keypress: escape
+15.2996 	EXP 	Device response: <KeyPress from None: t=15.128991699995822, value=escape, duration=0.16507970000384375>
+15.2997 	EXP 	AuditoryANT: status = STOPPED
+15.3158 	EXP 	fixation_cross: autoDraw = False
+15.3160 	EXP 	AuditoryANT: status = STOPPED
+15.3329 	INFO 	saved data to 'c:\\Users\\Adyant Balaji\\Documents\\EEG\\tinnitusExperiments\\AudiANT\\data\\789125_AuditoryANT_2025-09-26_14h13.32.609.csv'
+15.3351 	INFO 	saved data to c:\Users\Adyant Balaji\Documents\EEG\tinnitusExperiments\AudiANT\data\789125_AuditoryANT_2025-09-26_14h13.32.609.psydat
+15.7254 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+15.7969 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
