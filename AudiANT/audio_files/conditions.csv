@@ -1,25 +1,37 @@
-block,target_word,target_pitch,cue_type,cue_file,target_file,correct_resp,ear
-1,low,LP,alerting,C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/alerting_cue.wav,C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/low_LP_left.wav,down,left
-1,low,LP,alerting,C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/alerting_cue.wav,C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/low_LP_right.wav,down,right
-1,low,LP,orienting,C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/orienting_left.wav,C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/low_LP_left.wav,down,left
-1,low,LP,orienting,C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/orienting_right.wav,C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/low_LP_right.wav,down,right
-1,low,HP,alerting,C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/alerting_cue.wav,C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/low_HP_left.wav,up,left
-1,low,HP,alerting,C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/alerting_cue.wav,C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/low_HP_right.wav,up,right
-1,low,HP,orienting,C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/orienting_left.wav,C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/low_HP_left.wav,up,left
-1,low,HP,orienting,C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/orienting_right.wav,C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/low_HP_right.wav,up,right
-1,high,LP,alerting,C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/alerting_cue.wav,C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/high_LP_left.wav,down,left
-1,high,LP,alerting,C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/alerting_cue.wav,C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/high_LP_right.wav,down,right
-1,high,LP,orienting,C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/orienting_left.wav,C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/high_LP_left.wav,down,left
-1,high,LP,orienting,C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/orienting_right.wav,C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/high_LP_right.wav,down,right
-1,high,HP,alerting,C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/alerting_cue.wav,C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/high_HP_left.wav,up,left
-1,high,HP,alerting,C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/alerting_cue.wav,C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/high_HP_right.wav,up,right
-1,high,HP,orienting,C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/orienting_left.wav,C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/high_HP_left.wav,up,left
-1,high,HP,orienting,C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/orienting_right.wav,C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/high_HP_right.wav,up,right
-1,day,LP,alerting,C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/alerting_cue.wav,C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/day_LP_left.wav,down,left
-1,day,LP,alerting,C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/alerting_cue.wav,C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/day_LP_right.wav,down,right
-1,day,LP,orienting,C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/orienting_left.wav,C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/day_LP_left.wav,down,left
-1,day,LP,orienting,C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/orienting_right.wav,C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/day_LP_right.wav,down,right
-1,day,HP,alerting,C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/alerting_cue.wav,C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/day_HP_left.wav,up,left
-1,day,HP,alerting,C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/alerting_cue.wav,C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/day_HP_right.wav,up,right
-1,day,HP,orienting,C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/orienting_left.wav,C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/day_HP_left.wav,up,left
-1,day,HP,orienting,C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/orienting_right.wav,C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/day_HP_right.wav,up,right
+target_word,target_pitch,correct_resp,cue_type,ear,cue_file,target_file
+low,LP,down,none,left,audio_files/alerting_cue.wav,audio_files/low_LP_left.wav
+low,LP,down,none,right,audio_files/alerting_cue.wav,audio_files/low_LP_right.wav
+low,LP,down,alerting,left,audio_files/alerting_cue.wav,audio_files/low_LP_left.wav
+low,LP,down,alerting,right,audio_files/alerting_cue.wav,audio_files/low_LP_right.wav
+low,LP,down,orienting,left,audio_files/orienting_left.wav,audio_files/low_LP_left.wav
+low,LP,down,orienting,right,audio_files/orienting_right.wav,audio_files/low_LP_right.wav
+low,HP,up,none,left,audio_files/alerting_cue.wav,audio_files/low_HP_left.wav
+low,HP,up,none,right,audio_files/alerting_cue.wav,audio_files/low_HP_right.wav
+low,HP,up,alerting,left,audio_files/alerting_cue.wav,audio_files/low_HP_left.wav
+low,HP,up,alerting,right,audio_files/alerting_cue.wav,audio_files/low_HP_right.wav
+low,HP,up,orienting,left,audio_files/orienting_left.wav,audio_files/low_HP_left.wav
+low,HP,up,orienting,right,audio_files/orienting_right.wav,audio_files/low_HP_right.wav
+high,LP,down,none,left,audio_files/alerting_cue.wav,audio_files/high_LP_left.wav
+high,LP,down,none,right,audio_files/alerting_cue.wav,audio_files/high_LP_right.wav
+high,LP,down,alerting,left,audio_files/alerting_cue.wav,audio_files/high_LP_left.wav
+high,LP,down,alerting,right,audio_files/alerting_cue.wav,audio_files/high_LP_right.wav
+high,LP,down,orienting,left,audio_files/orienting_left.wav,audio_files/high_LP_left.wav
+high,LP,down,orienting,right,audio_files/orienting_right.wav,audio_files/high_LP_right.wav
+high,HP,up,none,left,audio_files/alerting_cue.wav,audio_files/high_HP_left.wav
+high,HP,up,none,right,audio_files/alerting_cue.wav,audio_files/high_HP_right.wav
+high,HP,up,alerting,left,audio_files/alerting_cue.wav,audio_files/high_HP_left.wav
+high,HP,up,alerting,right,audio_files/alerting_cue.wav,audio_files/high_HP_right.wav
+high,HP,up,orienting,left,audio_files/orienting_left.wav,audio_files/high_HP_left.wav
+high,HP,up,orienting,right,audio_files/orienting_right.wav,audio_files/high_HP_right.wav
+day,LP,down,none,left,audio_files/alerting_cue.wav,audio_files/day_LP_left.wav
+day,LP,down,none,right,audio_files/alerting_cue.wav,audio_files/day_LP_right.wav
+day,LP,down,alerting,left,audio_files/alerting_cue.wav,audio_files/day_LP_left.wav
+day,LP,down,alerting,right,audio_files/alerting_cue.wav,audio_files/day_LP_right.wav
+day,LP,down,orienting,left,audio_files/orienting_left.wav,audio_files/day_LP_left.wav
+day,LP,down,orienting,right,audio_files/orienting_right.wav,audio_files/day_LP_right.wav
+day,HP,up,none,left,audio_files/alerting_cue.wav,audio_files/day_HP_left.wav
+day,HP,up,none,right,audio_files/alerting_cue.wav,audio_files/day_HP_right.wav
+day,HP,up,alerting,left,audio_files/alerting_cue.wav,audio_files/day_HP_left.wav
+day,HP,up,alerting,right,audio_files/alerting_cue.wav,audio_files/day_HP_right.wav
+day,HP,up,orienting,left,audio_files/orienting_left.wav,audio_files/day_HP_left.wav
+day,HP,up,orienting,right,audio_files/orienting_right.wav,audio_files/day_HP_right.wav

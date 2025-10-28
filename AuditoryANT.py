@@ -18,8 +18,9 @@ from psychopy import plugins
 plugins.activatePlugins()
 prefs.hardware['audioLib'] = 'ptb'
 prefs.hardware['audioLatencyMode'] = '4'
+prefs.hardware['audioDevice'] = ['Headphones (Realtek(R) Audio)']
 # CHANGE THIS FOR THE DEVICE USED
-prefs.hardware['audioDevice'] = ['Realtek HD Audio 2nd output (Realtek(R) Audio)']
+# prefs.hardware['audioDevice'] = ['Realtek HD Audio 2nd output (Realtek(R) Audio)']
 from psychopy import sound, gui, visual, core, data, event, logging, clock, colors, layout, hardware
 from psychopy.tools import environmenttools
 from psychopy.constants import (NOT_STARTED, STARTED, PLAYING, PAUSED,
@@ -142,7 +143,7 @@ def setupData(expInfo, dataDir=None):
     thisExp = data.ExperimentHandler(
         name=expName, version='',
         extraInfo=expInfo, runtimeInfo=None,
-        originPath='./AuditoryANT.py',
+        originPath='~/Documents/EEG/tinnitusExperiments/AudiANT/AuditoryANT.py',
         savePickle=True, saveWideText=True,
         dataFileName=dataDir + os.sep + filename, sortColumns='time'
     )
@@ -440,7 +441,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
     # set up handler to look after randomisation of conditions etc
     trials = data.TrialHandler2(
         name='trials',
-        nReps=4.0, 
+        nReps=8.0, 
         method='random', 
         extraInfo=expInfo, 
         originPath=-1, 
@@ -499,7 +500,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
         thisExp.addData('iti', iti)
         
         orienting_cue.setSound(cue_file, secs=0.1, hamming=True)
-        if cue_type == 'none':
+        if cue_type == 'alerting':
             orienting_cue.setVolume(0.0, log=True)
         else:
             orienting_cue.setVolume(1.0, log=False)
@@ -588,7 +589,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
                 thisExp.addData('target.started', tThisFlipGlobal)
                 # update status
                 target.status = STARTED
-                outlet.push_sample([f'stimulusOn/{target_word}/{target_pitch}/{cue_type}', str(0.0)])
+                outlet.push_sample(['stimulusOn/{target_word}/{target_pitch}/{cue_type}', str(0.0)])
                 target.play(when=win)  # sync with win flip
                 print("Playing target")
             
@@ -604,7 +605,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
                     thisExp.timestampOnFlip(win, 'target.stopped')
                     # update status
                     target.status = FINISHED
-                    outlet.push_sample([f'stimulusOff/{target_word}/{target_pitch}/{cue_type}', str(0.0)])
+                    outlet.push_sample(['stimulusOff/{target_word}/{target_pitch}/{cue_type}', str(0.0)])
                     target.stop()
             
             # *key_resp* updates
@@ -646,7 +647,8 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
                     key_resp.keys = _key_resp_allKeys[-1].name  # just the last key pressed
                     key_resp.rt = _key_resp_allKeys[-1].rt
                     key_resp.duration = _key_resp_allKeys[-1].duration
-                    outlet.push_sample([(f"response/{key_resp.keys}/{'correct' if key_resp.keys==correct_resp else 'incorrect'}"), str(key_resp.rt)])
+                    outlet.push_sample([(f"response/{key_resp.keys}/"+
+                                         f"{'correct' if key_resp.keys==correct_resp else 'incorrect'}"), str(key_resp.rt)])
                     # a response ends the routine
                     continueRoutine = False
             
@@ -662,7 +664,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
                 thisExp.addData('orienting_cue.started', tThisFlipGlobal)
                 # update status
                 orienting_cue.status = STARTED
-                outlet.push_sample([f'cueOn/{cue_type}', str(0.0)])
+                outlet.push_sample(['cueOn/{cue_type}', str(0.0)])
                 orienting_cue.play(when=win)  # sync with win flip
             
             # if orienting_cue is stopping this frame...
@@ -677,7 +679,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
                     thisExp.timestampOnFlip(win, 'orienting_cue.stopped')
                     # update status
                     orienting_cue.status = FINISHED
-                    outlet.push_sample([f'cueOff/{cue_type}', str(0.0)])
+                    outlet.push_sample(['cueOff/{cue_type}', str(0.0)])
                     orienting_cue.stop()
             
             # check for quit (typically the Esc key)

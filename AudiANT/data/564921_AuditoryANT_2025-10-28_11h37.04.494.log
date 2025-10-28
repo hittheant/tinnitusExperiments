@@ -1,0 +1,219 @@
+2.9621 	INFO 	Loaded monitor calibration from ['2023_11_01 17:25']
+2.9681 	WARNING 	User requested fullscreen with size [1512  982], but screen is actually [2560, 1440]. Using actual size
+3.4023 	INFO 	Using renderer 'Intel(R) UHD Graphics 770' for graphics
+3.4023 	INFO 	OpenGL version supported by driver is 4..
+3.4122 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000168D87E0C40>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000168D87E0BE0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=True, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x00000168D887A6D0>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([2560, 1440]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+3.4122 	EXP 	window1: backgroundImage = ''
+3.4123 	EXP 	window1: backgroundFit = 'none'
+3.4823 	INFO 	keyboard.Keyboard is using ptb backend.
+3.4960 	INFO 	Created stream for speaker device: Realtek HD Audio 2nd output (Realtek(R) Audio) (10.0)
+3.4967 	INFO 	keyboard.Keyboard is using ptb backend.
+3.4992 	INFO 	Created stream for speaker device: Realtek HD Audio 2nd output (Realtek(R) Audio) (10.0)
+3.4998 	EXP 	AuditoryANT: status = STARTED
+3.5306 	EXP 	Created fixation_cross = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='fixation_cross', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='+', units='height', win=Window(...), wrapWidth=1)
+3.5306 	EXP 	target: sampleRate = 48000
+3.5306 	EXP 	target: channels = None
+3.5317 	EXP 	Sound target set volume 1.000
+3.5317 	EXP 	orienting_cue: sampleRate = 48000
+3.5318 	EXP 	orienting_cue: channels = None
+3.5319 	EXP 	Sound orienting_cue set volume 1.000
+0.0089 	EXP 	Imported audio_files/conditions.csv as conditions, 24 conditions, 8 params
+0.0094 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'block': 1, 'target_word': 'day', 'target_pitch': 'LP', 'cue_type': 'alerting', 'cue_file': 'C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/alerting_cue.wav', 'target_file': 'C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/day_LP_left.wav', 'correct_resp': 'down', 'ear': 'left', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+0.0096 	EXP 	target: sampleRate = 44100
+0.0193 	INFO 	Resampled audio from 44100Hz to 48000Hz using method 'default'.
+0.0198 	EXP 	orienting_cue: sampleRate = 44100
+0.0209 	INFO 	Resampled audio from 44100Hz to 48000Hz using method 'default'.
+0.0210 	EXP 	Sound orienting_cue set volume 0.000
+0.0239 	EXP 	fixation_cross: autoDraw = True
+1.2227 	EXP 	Sound orienting_cue reached end of file
+1.2386 	EXP 	Playing sound orienting_cue on speaker Realtek HD Audio 2nd output (Realtek(R) Audio)
+1.2387 	INFO 	Keyboard events cleared
+1.3385 	EXP 	Sound orienting_cue stopped
+1.7229 	EXP 	Sound target reached end of file
+1.7391 	EXP 	Playing sound target on speaker Realtek HD Audio 2nd output (Realtek(R) Audio)
+2.7954 	EXP 	Sound target reached end of file
+2.8071 	EXP 	Sound target reached end of file
+3.2071 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'block': 1, 'target_word': 'high', 'target_pitch': 'HP', 'cue_type': 'orienting', 'cue_file': 'C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/orienting_right.wav', 'target_file': 'C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/high_HP_right.wav', 'correct_resp': 'up', 'ear': 'right', 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+3.2074 	EXP 	target: sampleRate = 44100
+3.2157 	INFO 	Resampled audio from 44100Hz to 48000Hz using method 'default'.
+3.2163 	EXP 	orienting_cue: sampleRate = 44100
+3.2189 	INFO 	Resampled audio from 44100Hz to 48000Hz using method 'default'.
+3.2236 	EXP 	fixation_cross: autoDraw = False
+3.2236 	EXP 	fixation_cross: autoDraw = False
+3.2236 	EXP 	fixation_cross: autoDraw = True
+4.6920 	EXP 	Sound orienting_cue reached end of file
+4.7080 	EXP 	Playing sound orienting_cue on speaker Realtek HD Audio 2nd output (Realtek(R) Audio)
+4.7085 	INFO 	Keyboard events cleared
+4.8080 	EXP 	Sound orienting_cue stopped
+5.1922 	EXP 	Sound target reached end of file
+5.2084 	EXP 	Playing sound target on speaker Realtek HD Audio 2nd output (Realtek(R) Audio)
+5.8191 	EXP 	Sound target reached end of file
+5.8260 	EXP 	Sound target reached end of file
+6.0377 	EXP 	Device response: <KeyPress from None: t=6.014926100000594, value=up, duration=None>
+6.0381 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'block': 1, 'target_word': 'day', 'target_pitch': 'LP', 'cue_type': 'orienting', 'cue_file': 'C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/orienting_left.wav', 'target_file': 'C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/day_LP_left.wav', 'correct_resp': 'down', 'ear': 'left', 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+6.0387 	EXP 	target: sampleRate = 44100
+6.0493 	INFO 	Resampled audio from 44100Hz to 48000Hz using method 'default'.
+6.0497 	EXP 	orienting_cue: sampleRate = 44100
+6.0507 	INFO 	Resampled audio from 44100Hz to 48000Hz using method 'default'.
+6.0514 	DATA 	Keypress: up
+6.0533 	EXP 	fixation_cross: autoDraw = False
+6.0533 	EXP 	fixation_cross: autoDraw = True
+6.1266 	EXP 	Device response: <KeyPress from None: t=6.014926100000594, value=up, duration=0.09694409999974596>
+6.5935 	EXP 	Sound orienting_cue reached end of file
+6.6097 	EXP 	Playing sound orienting_cue on speaker Realtek HD Audio 2nd output (Realtek(R) Audio)
+6.6099 	INFO 	Keyboard events cleared
+6.7090 	EXP 	Sound orienting_cue stopped
+7.0939 	EXP 	Sound target reached end of file
+7.1102 	EXP 	Playing sound target on speaker Realtek HD Audio 2nd output (Realtek(R) Audio)
+8.1658 	EXP 	Sound target reached end of file
+8.1781 	EXP 	Sound target reached end of file
+8.7955 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'block': 1, 'target_word': 'day', 'target_pitch': 'LP', 'cue_type': 'orienting', 'cue_file': 'C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/orienting_right.wav', 'target_file': 'C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/day_LP_right.wav', 'correct_resp': 'down', 'ear': 'right', 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+8.7964 	EXP 	target: sampleRate = 44100
+8.8265 	INFO 	Resampled audio from 44100Hz to 48000Hz using method 'default'.
+8.8276 	EXP 	orienting_cue: sampleRate = 44100
+8.8298 	INFO 	Resampled audio from 44100Hz to 48000Hz using method 'default'.
+8.8323 	EXP 	fixation_cross: autoDraw = False
+8.8323 	EXP 	fixation_cross: autoDraw = True
+9.8797 	EXP 	Sound orienting_cue reached end of file
+9.8958 	EXP 	Playing sound orienting_cue on speaker Realtek HD Audio 2nd output (Realtek(R) Audio)
+9.8958 	INFO 	Keyboard events cleared
+9.9890 	EXP 	Sound orienting_cue stopped
+10.3801 	EXP 	Sound target reached end of file
+10.3963 	EXP 	Playing sound target on speaker Realtek HD Audio 2nd output (Realtek(R) Audio)
+11.4545 	EXP 	Sound target reached end of file
+11.4641 	EXP 	Sound target reached end of file
+11.7836 	DATA 	Keypress: down
+11.7977 	EXP 	Device response: <KeyPress from None: t=11.782110099999045, value=down, duration=None>
+11.9148 	EXP 	Device response: <KeyPress from None: t=11.782110099999045, value=down, duration=0.11886589999994612>
+12.0317 	EXP 	New trial (rep=0, index=4): <Trial 4 (4 in rep 0) data={'block': 1, 'target_word': 'high', 'target_pitch': 'LP', 'cue_type': 'alerting', 'cue_file': 'C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/alerting_cue.wav', 'target_file': 'C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/high_LP_right.wav', 'correct_resp': 'down', 'ear': 'right', 'thisN': 4, 'thisTrialN': 4, 'thisRepN': 0}>
+12.0327 	EXP 	target: sampleRate = 44100
+12.0537 	INFO 	Resampled audio from 44100Hz to 48000Hz using method 'default'.
+12.0543 	EXP 	orienting_cue: sampleRate = 44100
+12.0557 	INFO 	Resampled audio from 44100Hz to 48000Hz using method 'default'.
+12.0559 	EXP 	Sound orienting_cue set volume 0.000
+12.0586 	EXP 	fixation_cross: autoDraw = False
+12.0586 	EXP 	fixation_cross: autoDraw = False
+12.0586 	EXP 	fixation_cross: autoDraw = True
+13.4327 	EXP 	Sound orienting_cue reached end of file
+13.4488 	EXP 	Playing sound orienting_cue on speaker Realtek HD Audio 2nd output (Realtek(R) Audio)
+13.4488 	INFO 	Keyboard events cleared
+13.5456 	EXP 	Sound orienting_cue stopped
+13.9328 	EXP 	Sound target reached end of file
+13.9491 	EXP 	Playing sound target on speaker Realtek HD Audio 2nd output (Realtek(R) Audio)
+15.0031 	EXP 	Sound target reached end of file
+15.0172 	EXP 	Sound target reached end of file
+15.2510 	EXP 	New trial (rep=0, index=5): <Trial 5 (5 in rep 0) data={'block': 1, 'target_word': 'low', 'target_pitch': 'HP', 'cue_type': 'orienting', 'cue_file': 'C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/orienting_right.wav', 'target_file': 'C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/low_HP_right.wav', 'correct_resp': 'up', 'ear': 'right', 'thisN': 5, 'thisTrialN': 5, 'thisRepN': 0}>
+15.2519 	EXP 	target: sampleRate = 44100
+15.2639 	INFO 	Resampled audio from 44100Hz to 48000Hz using method 'default'.
+15.2646 	EXP 	orienting_cue: sampleRate = 44100
+15.2670 	INFO 	Resampled audio from 44100Hz to 48000Hz using method 'default'.
+15.2695 	EXP 	fixation_cross: autoDraw = False
+15.2695 	EXP 	fixation_cross: autoDraw = False
+15.2695 	EXP 	fixation_cross: autoDraw = True
+15.3857 	DATA 	Keypress: down
+15.4008 	EXP 	Device response: <KeyPress from None: t=15.384085100000448, value=down, duration=None>
+15.5177 	EXP 	Device response: <KeyPress from None: t=15.384085100000448, value=down, duration=0.11882899999909569>
+16.8182 	EXP 	Sound orienting_cue reached end of file
+16.8346 	EXP 	Playing sound orienting_cue on speaker Realtek HD Audio 2nd output (Realtek(R) Audio)
+16.8347 	INFO 	Keyboard events cleared
+16.9385 	EXP 	Sound orienting_cue stopped
+17.3023 	EXP 	Sound target reached end of file
+17.3185 	EXP 	Playing sound target on speaker Realtek HD Audio 2nd output (Realtek(R) Audio)
+17.8915 	EXP 	Sound target reached end of file
+17.9028 	EXP 	Sound target reached end of file
+18.0215 	DATA 	Keypress: up
+18.0364 	EXP 	Device response: <KeyPress from None: t=18.01920819999941, value=up, duration=None>
+18.0368 	EXP 	New trial (rep=0, index=6): <Trial 6 (6 in rep 0) data={'block': 1, 'target_word': 'day', 'target_pitch': 'LP', 'cue_type': 'alerting', 'cue_file': 'C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/alerting_cue.wav', 'target_file': 'C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/day_LP_right.wav', 'correct_resp': 'down', 'ear': 'right', 'thisN': 6, 'thisTrialN': 6, 'thisRepN': 0}>
+18.0377 	EXP 	target: sampleRate = 44100
+18.0570 	INFO 	Resampled audio from 44100Hz to 48000Hz using method 'default'.
+18.0575 	EXP 	orienting_cue: sampleRate = 44100
+18.0581 	INFO 	Resampled audio from 44100Hz to 48000Hz using method 'default'.
+18.0582 	EXP 	Sound orienting_cue set volume 0.000
+18.0604 	EXP 	fixation_cross: autoDraw = False
+18.0604 	EXP 	fixation_cross: autoDraw = True
+18.1700 	EXP 	Device response: <KeyPress from None: t=18.01920819999941, value=up, duration=0.14186979999976757>
+18.5369 	EXP 	Sound orienting_cue reached end of file
+18.5530 	EXP 	Playing sound orienting_cue on speaker Realtek HD Audio 2nd output (Realtek(R) Audio)
+18.5530 	INFO 	Keyboard events cleared
+18.6465 	EXP 	Sound orienting_cue stopped
+19.0373 	EXP 	Sound target reached end of file
+19.0535 	EXP 	Playing sound target on speaker Realtek HD Audio 2nd output (Realtek(R) Audio)
+20.1088 	EXP 	Sound target reached end of file
+20.1214 	EXP 	Sound target reached end of file
+20.1547 	EXP 	Device response: <KeyPress from None: t=20.14698700000008, value=down, duration=None>
+20.1552 	EXP 	New trial (rep=0, index=7): <Trial 7 (7 in rep 0) data={'block': 1, 'target_word': 'day', 'target_pitch': 'HP', 'cue_type': 'orienting', 'cue_file': 'C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/orienting_right.wav', 'target_file': 'C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/day_HP_right.wav', 'correct_resp': 'up', 'ear': 'right', 'thisN': 7, 'thisTrialN': 7, 'thisRepN': 0}>
+20.1561 	EXP 	target: sampleRate = 44100
+20.1695 	INFO 	Resampled audio from 44100Hz to 48000Hz using method 'default'.
+20.1702 	EXP 	orienting_cue: sampleRate = 44100
+20.1729 	INFO 	Resampled audio from 44100Hz to 48000Hz using method 'default'.
+20.1745 	DATA 	Keypress: down
+20.1766 	EXP 	fixation_cross: autoDraw = False
+20.1766 	EXP 	fixation_cross: autoDraw = True
+20.2552 	EXP 	Device response: <KeyPress from None: t=20.14698700000008, value=down, duration=0.09599399999933667>
+21.1891 	EXP 	Sound orienting_cue reached end of file
+21.2051 	EXP 	Playing sound orienting_cue on speaker Realtek HD Audio 2nd output (Realtek(R) Audio)
+21.2052 	INFO 	Keyboard events cleared
+21.2991 	EXP 	Sound orienting_cue stopped
+21.6893 	EXP 	Sound target reached end of file
+21.7055 	EXP 	Playing sound target on speaker Realtek HD Audio 2nd output (Realtek(R) Audio)
+22.3168 	EXP 	Sound target reached end of file
+22.3232 	EXP 	Sound target reached end of file
+22.6068 	EXP 	Device response: <KeyPress from None: t=22.59702169999946, value=up, duration=None>
+22.6073 	EXP 	New trial (rep=0, index=8): <Trial 8 (8 in rep 0) data={'block': 1, 'target_word': 'low', 'target_pitch': 'HP', 'cue_type': 'orienting', 'cue_file': 'C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/orienting_left.wav', 'target_file': 'C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/low_HP_left.wav', 'correct_resp': 'up', 'ear': 'left', 'thisN': 8, 'thisTrialN': 8, 'thisRepN': 0}>
+22.6081 	EXP 	target: sampleRate = 44100
+22.6168 	INFO 	Resampled audio from 44100Hz to 48000Hz using method 'default'.
+22.6174 	EXP 	orienting_cue: sampleRate = 44100
+22.6196 	INFO 	Resampled audio from 44100Hz to 48000Hz using method 'default'.
+22.6203 	DATA 	Keypress: up
+22.6228 	EXP 	fixation_cross: autoDraw = False
+22.6228 	EXP 	fixation_cross: autoDraw = True
+22.7573 	EXP 	Device response: <KeyPress from None: t=22.59702169999946, value=up, duration=0.1432557000007364>
+23.1407 	EXP 	Sound orienting_cue reached end of file
+23.1568 	EXP 	Playing sound orienting_cue on speaker Realtek HD Audio 2nd output (Realtek(R) Audio)
+23.1569 	INFO 	Keyboard events cleared
+23.2579 	EXP 	Sound orienting_cue stopped
+23.6243 	EXP 	Sound target reached end of file
+23.6405 	EXP 	Playing sound target on speaker Realtek HD Audio 2nd output (Realtek(R) Audio)
+24.2100 	EXP 	Sound target reached end of file
+24.2248 	EXP 	Sound target reached end of file
+25.3261 	EXP 	New trial (rep=0, index=9): <Trial 9 (9 in rep 0) data={'block': 1, 'target_word': 'high', 'target_pitch': 'LP', 'cue_type': 'orienting', 'cue_file': 'C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/orienting_left.wav', 'target_file': 'C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/high_LP_left.wav', 'correct_resp': 'down', 'ear': 'left', 'thisN': 9, 'thisTrialN': 9, 'thisRepN': 0}>
+25.3270 	EXP 	target: sampleRate = 44100
+25.3554 	INFO 	Resampled audio from 44100Hz to 48000Hz using method 'default'.
+25.3561 	EXP 	orienting_cue: sampleRate = 44100
+25.3581 	INFO 	Resampled audio from 44100Hz to 48000Hz using method 'default'.
+25.3607 	EXP 	fixation_cross: autoDraw = False
+25.3607 	EXP 	fixation_cross: autoDraw = True
+26.6268 	EXP 	Sound orienting_cue reached end of file
+26.6429 	EXP 	Playing sound orienting_cue on speaker Realtek HD Audio 2nd output (Realtek(R) Audio)
+26.6432 	INFO 	Keyboard events cleared
+26.7391 	EXP 	Sound orienting_cue stopped
+27.1273 	EXP 	Sound target reached end of file
+27.1434 	EXP 	Playing sound target on speaker Realtek HD Audio 2nd output (Realtek(R) Audio)
+28.2046 	EXP 	Sound target reached end of file
+28.2109 	EXP 	Sound target reached end of file
+28.5453 	EXP 	New trial (rep=0, index=10): <Trial 10 (10 in rep 0) data={'block': 1, 'target_word': 'low', 'target_pitch': 'LP', 'cue_type': 'orienting', 'cue_file': 'C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/orienting_right.wav', 'target_file': 'C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/low_LP_right.wav', 'correct_resp': 'down', 'ear': 'right', 'thisN': 10, 'thisTrialN': 10, 'thisRepN': 0}>
+28.5461 	EXP 	target: sampleRate = 44100
+28.5728 	INFO 	Resampled audio from 44100Hz to 48000Hz using method 'default'.
+28.5735 	EXP 	orienting_cue: sampleRate = 44100
+28.5759 	INFO 	Resampled audio from 44100Hz to 48000Hz using method 'default'.
+28.5785 	EXP 	fixation_cross: autoDraw = False
+28.5785 	EXP 	fixation_cross: autoDraw = False
+28.5785 	EXP 	fixation_cross: autoDraw = True
+29.6959 	EXP 	Sound orienting_cue reached end of file
+29.7121 	EXP 	Playing sound orienting_cue on speaker Realtek HD Audio 2nd output (Realtek(R) Audio)
+29.7122 	INFO 	Keyboard events cleared
+29.8094 	EXP 	Sound orienting_cue stopped
+30.1963 	EXP 	Sound target reached end of file
+30.2126 	EXP 	Playing sound target on speaker Realtek HD Audio 2nd output (Realtek(R) Audio)
+31.2032 	EXP 	Sound target reached end of file
+31.2136 	EXP 	Sound target reached end of file
+31.2638 	EXP 	Device response: <KeyPress from None: t=31.24999530000059, value=escape, duration=None>
+31.2652 	DATA 	Keypress: escape
+31.3808 	EXP 	Device response: <KeyPress from None: t=31.24999530000059, value=escape, duration=0.11882239999977173>
+31.3809 	EXP 	AuditoryANT: status = STOPPED
+31.3968 	EXP 	fixation_cross: autoDraw = False
+31.3969 	EXP 	AuditoryANT: status = STOPPED
+31.4132 	INFO 	saved data to 'c:\\Users\\Adyant Balaji\\Documents\\EEG\\tinnitusExperiments\\AudiANT\\data\\564921_AuditoryANT_2025-10-28_11h37.04.494.csv'
+31.4141 	INFO 	saved data to c:\Users\Adyant Balaji\Documents\EEG\tinnitusExperiments\AudiANT\data\564921_AuditoryANT_2025-10-28_11h37.04.494.psydat
+31.8096 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+31.8730 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
