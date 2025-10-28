@@ -42,7 +42,7 @@ info = StreamInfo(
     type='Markers', 
     channel_count=2, 
     nominal_srate=0,  # Irregular sampling rate for event markers
-    channel_format=['string', 'string'], 
+    channel_format='string', 
     source_id='psycopy_experiment'
 )
 
@@ -142,7 +142,7 @@ def setupData(expInfo, dataDir=None):
     thisExp = data.ExperimentHandler(
         name=expName, version='',
         extraInfo=expInfo, runtimeInfo=None,
-        originPath='~/Documents/EEG/tinnitusExperiments/AudiANT/AuditoryANT.py',
+        originPath='./AuditoryANT.py',
         savePickle=True, saveWideText=True,
         dataFileName=dataDir + os.sep + filename, sortColumns='time'
     )
@@ -509,7 +509,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
         trial.tStart = globalClock.getTime(format='float')
         trial.status = STARTED
         thisExp.addData('trial.started', trial.tStart)
-        outlet.push_sample('trialStart', str(0.0))
+        outlet.push_sample(['trialStart', str(0.0)])
         trial.maxDuration = iti + 0.1 +0.4 + 1.7
         # keep track of which components have finished
         trialComponents = trial.components
@@ -588,7 +588,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
                 thisExp.addData('target.started', tThisFlipGlobal)
                 # update status
                 target.status = STARTED
-                outlet.push_sample(['stimulusOn/{target_word}/{target_pitch}/{cue_type}', str(0.0)])
+                outlet.push_sample([f'stimulusOn/{target_word}/{target_pitch}/{cue_type}', str(0.0)])
                 target.play(when=win)  # sync with win flip
                 print("Playing target")
             
@@ -604,7 +604,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
                     thisExp.timestampOnFlip(win, 'target.stopped')
                     # update status
                     target.status = FINISHED
-                    outlet.push_sample(['stimulusOff/{target_word}/{target_pitch}/{cue_type}', str(0.0)])
+                    outlet.push_sample([f'stimulusOff/{target_word}/{target_pitch}/{cue_type}', str(0.0)])
                     target.stop()
             
             # *key_resp* updates
@@ -646,8 +646,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
                     key_resp.keys = _key_resp_allKeys[-1].name  # just the last key pressed
                     key_resp.rt = _key_resp_allKeys[-1].rt
                     key_resp.duration = _key_resp_allKeys[-1].duration
-                    outlet.push_sample([('response/{key_resp.keys}/',
-                                         "{'correct' if key_resp.keys==correct_resp else 'incorrect}"), str(key_resp.rt)])
+                    outlet.push_sample([(f"response/{key_resp.keys}/{'correct' if key_resp.keys==correct_resp else 'incorrect'}"), str(key_resp.rt)])
                     # a response ends the routine
                     continueRoutine = False
             
@@ -663,7 +662,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
                 thisExp.addData('orienting_cue.started', tThisFlipGlobal)
                 # update status
                 orienting_cue.status = STARTED
-                outlet.push_sample(['cueOn/{cue_type}', str(0.0)])
+                outlet.push_sample([f'cueOn/{cue_type}', str(0.0)])
                 orienting_cue.play(when=win)  # sync with win flip
             
             # if orienting_cue is stopping this frame...
@@ -678,7 +677,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
                     thisExp.timestampOnFlip(win, 'orienting_cue.stopped')
                     # update status
                     orienting_cue.status = FINISHED
-                    outlet.push_sample(['cueOff/{cue_type}', str(0.0)])
+                    outlet.push_sample([f'cueOff/{cue_type}', str(0.0)])
                     orienting_cue.stop()
             
             # check for quit (typically the Esc key)
@@ -720,7 +719,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
         trial.tStop = globalClock.getTime(format='float')
         trial.tStopRefresh = tThisFlipGlobal
         thisExp.addData('trial.stopped', trial.tStop)
-        outlet.push_sample('trialEnd', str(0.0))
+        outlet.push_sample(['trialEnd', str(0.0)])
         target.pause()  # ensure sound has stopped at end of Routine
         # check responses
         if key_resp.keys in ['', [], None]:  # No response was made

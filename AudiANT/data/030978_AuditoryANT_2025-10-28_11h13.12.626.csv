@@ -1,0 +1,2 @@
+﻿block,target_word,target_pitch,cue_type,cue_file,target_file,correct_resp,ear,thisN,thisTrialN,thisRepN,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,thisRow.t,notes,iti,trial.started,participant,session,date,expName,psychopyVersion,expStart,
+1,day,LP,alerting,C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/alerting_cue.wav,C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/day_LP_left.wav,down,left,0,0,0,0,0,0,16,,,[1.58509706],0.049184799998329254,,,,,,,

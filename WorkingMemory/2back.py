@@ -41,7 +41,7 @@ import random, os
 # Setting up LSL stream
 # Set up the LSL stream for markers
 info = StreamInfo(
-    name='PsychoPyNBack', 
+    name='NBack', 
     type='Markers', 
     channel_count=2, 
     nominal_srate=0,  # Irregular sampling rate for event markers
@@ -172,7 +172,7 @@ def setupData(expInfo, dataDir=None):
     thisExp = data.ExperimentHandler(
         name=expName, version='',
         extraInfo=expInfo, runtimeInfo=None,
-        originPath=('~/Documents/EEG/tinnitusExperiments/WorkingMemory/2back_diagram_lastrun.py'),
+        originPath=('./2back_diagram_lastrun.py'),
         savePickle=True, saveWideText=True,
         dataFileName=dataDir + os.sep + filename, sortColumns='time'
     )
@@ -746,7 +746,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
         trial.tStop = globalClock.getTime(format='float')
         trial.tStopRefresh = tThisFlipGlobal
         thisExp.addData('trial.stopped', trial.tStop)
-        outlet.push_sample(['trialEnd/{str(trials.thisN)}', str(0.0)])
+        outlet.push_sample([f'trialEnd/{str(trials.thisN)}', str(0.0)])
         # Run 'End Routine' code from trialCode
         # What did the participant press?
         resp_key = key_resp.keys[0] if key_resp.keys else 'none'

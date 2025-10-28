@@ -1,0 +1,30 @@
+3.4347 	INFO 	Loaded monitor calibration from ['2023_11_01 17:25']
+3.4419 	WARNING 	User requested fullscreen with size [1512  982], but screen is actually [2560, 1440]. Using actual size
+3.9023 	INFO 	Using renderer 'Intel(R) UHD Graphics 770' for graphics
+3.9023 	INFO 	OpenGL version supported by driver is 4..
+3.9121 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001DFDE0C0BE0>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001DFDE0C0B80>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=True, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001DFDE159670>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([2560, 1440]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+3.9122 	EXP 	window1: backgroundImage = ''
+3.9122 	EXP 	window1: backgroundFit = 'none'
+3.9863 	INFO 	keyboard.Keyboard is using ptb backend.
+4.1269 	INFO 	Created stream for speaker device: Realtek HD Audio 2nd output (Realtek(R) Audio) (10.0)
+4.1280 	INFO 	keyboard.Keyboard is using ptb backend.
+4.1307 	INFO 	Created stream for speaker device: Realtek HD Audio 2nd output (Realtek(R) Audio) (10.0)
+4.1313 	EXP 	AuditoryANT: status = STARTED
+4.1553 	EXP 	Created fixation_cross = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='fixation_cross', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='+', units='height', win=Window(...), wrapWidth=1)
+4.1553 	EXP 	target: sampleRate = 48000
+4.1553 	EXP 	target: channels = None
+4.1564 	EXP 	Sound target set volume 1.000
+4.1564 	EXP 	orienting_cue: sampleRate = 48000
+4.1564 	EXP 	orienting_cue: channels = None
+4.1565 	EXP 	Sound orienting_cue set volume 1.000
+0.0235 	EXP 	Imported audio_files/conditions.csv as conditions, 24 conditions, 8 params
+0.0244 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'block': 1, 'target_word': 'day', 'target_pitch': 'LP', 'cue_type': 'alerting', 'cue_file': 'C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/alerting_cue.wav', 'target_file': 'C:/Users/Adyant Balaji/Documents/EEG/tinnitusExperiments/AudiANT/audio_files/day_LP_left.wav', 'correct_resp': 'down', 'ear': 'left', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+0.0302 	EXP 	target: sampleRate = 44100
+0.0416 	INFO 	Resampled audio from 44100Hz to 48000Hz using method 'default'.
+0.0480 	EXP 	orienting_cue: sampleRate = 44100
+0.0491 	INFO 	Resampled audio from 44100Hz to 48000Hz using method 'default'.
+0.0492 	EXP 	Sound orienting_cue set volume 0.000
+0.3496 	INFO 	saved data to c:\Users\Adyant Balaji\Documents\EEG\tinnitusExperiments\AudiANT\data\030978_AuditoryANT_2025-10-28_11h13.12.626.psydat
+0.3504 	INFO 	saved data to 'c:\\Users\\Adyant Balaji\\Documents\\EEG\\tinnitusExperiments\\AudiANT\\data\\030978_AuditoryANT_2025-10-28_11h13.12.626.csv'
+0.3550 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+0.4339 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
